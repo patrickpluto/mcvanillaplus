@@ -98,7 +98,13 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "emerald_armor"
+      "registry_name": "emerald_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "EmeraldArmorHelmetRecipe",

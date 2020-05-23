@@ -5,6 +5,8 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.PickaxeItem;
+import net.minecraft.item.Items;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
@@ -23,7 +25,7 @@ public class EmeraldPickaxeItem extends VanillaModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new PickaxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 660;
+				return 2000;
 			}
 
 			public float getEfficiency() {
@@ -31,7 +33,7 @@ public class EmeraldPickaxeItem extends VanillaModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 2f;
+				return 5f;
 			}
 
 			public int getHarvestLevel() {
@@ -39,11 +41,11 @@ public class EmeraldPickaxeItem extends VanillaModElements.ModElement {
 			}
 
 			public int getEnchantability() {
-				return 28;
+				return 15;
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.EMPTY;
+				return Ingredient.fromStacks(new ItemStack(Items.EMERALD, (int) (1)));
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("emerald_pickaxe"));

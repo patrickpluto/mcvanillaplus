@@ -38,10 +38,14 @@
     "damageValueLeggings": 6,
     "damageValueBoots": 2,
     "enchantability": 9,
-    "toughness": 0.0,
+    "toughness": 2.5,
     "equipSound": {
       "value": ""
     },
-    "repairItems": []
+    "repairItems": [
+      {
+        "value": "Items.EMERALD"
+      }
+    ]
   }
 }
