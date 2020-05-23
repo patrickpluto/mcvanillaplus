@@ -47,7 +47,7 @@ public class EmeraldAxeItem extends VanillaModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(Items.EMERALD, (int) (1)));
 			}
-		}, 1, -2f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("emerald_axe"));
 	}
 }
