@@ -141,16 +141,131 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "emerald_armor_boots_recipe"
+    },
+    {
+      "name": "EmeraldApple",
+      "type": "food",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_apple"
+    },
+    {
+      "name": "EmeraldAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnchantedEmeraldApple",
+      "type": "food",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchanted_emerald_apple"
+    },
+    {
+      "name": "EnchantedEmeraldAppleFoodEaten",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchanted_emerald_apple_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DiamondAppleEaten",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_apple_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnchantedDiamondAppleEaten",
+      "type": "procedure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchanted_diamond_apple_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EnchantedGoldenApple",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchanted_golden_apple"
+    },
+    {
+      "name": "EmeraldAppleRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_apple_recipe"
+    },
+    {
+      "name": "EnchantedEmeraldAppleRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "enchanted_emerald_apple_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.vanilla_.enchanted_emerald_apple": "Emerald Apple",
       "item.vanilla_.emerald_sword": "Emerald Sword",
       "item.vanilla_.emerald_shovel": "Emerald Shovel",
       "item.vanilla_.emerald_armorhelmet": "Emerald Helmet",
       "item.vanilla_.emerald_armorboots": "Emerald Boots",
+      "item.vanilla_.emerald_apple": "Emerald Apple",
       "item.vanilla_.emerald_armorbody": "Emerald Chestplate",
       "item.vanilla_.emerald_pickaxe": "Emerald Pickaxe",
       "item.vanilla_.emerald_axe": "Emerald Axe",
