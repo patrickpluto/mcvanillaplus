@@ -1,0 +1,172 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EmeraldPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe"
+    },
+    {
+      "name": "EmeraldAxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe"
+    },
+    {
+      "name": "EmeraldSword",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword"
+    },
+    {
+      "name": "EmeraldShovel",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_shovel"
+    },
+    {
+      "name": "EmeraldHoe",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_hoe"
+    },
+    {
+      "name": "EmeraldPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe_recipe"
+    },
+    {
+      "name": "EmeraldAxeRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe_recipe"
+    },
+    {
+      "name": "EmeraldSwordRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_sword_recipe"
+    },
+    {
+      "name": "EmeraldShovelRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_shovel_recipe"
+    },
+    {
+      "name": "EmeraldHoeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_hoe_recipe"
+    },
+    {
+      "name": "EmeraldArmor",
+      "type": "armor",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor"
+    },
+    {
+      "name": "EmeraldArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_helmet_recipe"
+    },
+    {
+      "name": "EmeraldArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_body_recipe"
+    },
+    {
+      "name": "EmeraldArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_leggings_recipe"
+    },
+    {
+      "name": "EmeraldArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.vanilla_.emerald_sword": "Emerald Sword",
+      "item.vanilla_.emerald_shovel": "Emerald Shovel",
+      "item.vanilla_.emerald_armorhelmet": "Emerald Helmet",
+      "item.vanilla_.emerald_armorboots": "Emerald Boots",
+      "item.vanilla_.emerald_armorbody": "Emerald Chestplate",
+      "item.vanilla_.emerald_pickaxe": "Emerald Pickaxe",
+      "item.vanilla_.emerald_axe": "Emerald Axe",
+      "item.vanilla_.emerald_hoe": "Emerald Hoe",
+      "item.vanilla_.emerald_armorlegs": "Emerald Leggings"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "vanilla_",
+    "modName": "Vanilla +",
+    "version": "1.0.0",
+    "author": "OMEN 870-296nz, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.vanilla",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000321322
+}
