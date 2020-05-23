@@ -41,7 +41,7 @@ public class EmeraldArmorItem extends VanillaModElements.ModElement {
 			}
 
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{4, 7, 9, 5}[slot.getIndex()];
+				return new int[]{4, 8, 9, 5}[slot.getIndex()];
 			}
 
 			public int getEnchantability() {
