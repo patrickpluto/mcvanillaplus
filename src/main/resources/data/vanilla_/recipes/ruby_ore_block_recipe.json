@@ -1,0 +1,42 @@
+{
+  "group": "vanilla_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "1": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "2": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "3": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "4": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "5": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "6": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "7": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "8": {
+      "item": "vanilla_:ruby_gem"
+    }
+  },
+  "result": {
+    "item": "vanilla_:ruby_ore_block",
+    "count": 1
+  }
+}

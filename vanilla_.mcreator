@@ -344,22 +344,79 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "chain_armor_boots_recipe"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyOreBlock",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block"
+    },
+    {
+      "name": "RubyGem",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_gem"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_smelting"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.vanilla_.enchanted_diamond_apple": "Diamond Apple",
-      "item.vanilla_.emerald_shovel": "Emerald Shovel",
-      "item.vanilla_.emerald_armorhelmet": "Emerald Helmet",
       "item.vanilla_.emerald_armorboots": "Emerald Boots",
+      "item.vanilla_.emerald_armorhelmet": "Emerald Helmet",
+      "item.vanilla_.emerald_shovel": "Emerald Shovel",
+      "item.vanilla_.enchanted_diamond_apple": "Diamond Apple",
       "item.vanilla_.emerald_armorbody": "Emerald Chestplate",
       "item.vanilla_.emerald_axe": "Emerald Axe",
+      "item.vanilla_.ruby_gem": "Ruby",
+      "block.vanilla_.ruby_ore": "Ruby Ore",
+      "block.vanilla_.ruby_ore_block": "Block of Ruby",
       "item.vanilla_.enchanted_emerald_apple": "Emerald Apple",
+      "item.vanilla_.chain": "Chain",
       "item.vanilla_.emerald_sword": "Emerald Sword",
       "item.vanilla_.emerald_apple": "Emerald Apple",
-      "item.vanilla_.chain": "Chain",
       "item.vanilla_.emerald_pickaxe": "Emerald Pickaxe",
       "item.vanilla_.emerald_hoe": "Emerald Hoe",
       "item.vanilla_.emerald_armorlegs": "Emerald Leggings",

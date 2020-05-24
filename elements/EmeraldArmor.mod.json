@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "emerald_head",
+    "textureHelmet": "emerald_helmet",
     "enableBody": true,
-    "textureBody": "emerald_body",
+    "textureBody": "emerald_chestplate",
     "enableLeggings": true,
     "textureLeggings": "emerald_leggings",
     "enableBoots": true,

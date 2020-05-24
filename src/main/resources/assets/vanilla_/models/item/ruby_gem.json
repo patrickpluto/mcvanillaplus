@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "vanilla_:items/emerald_helmet"
+    "layer0": "vanilla_:items/ruby_gem"
   }
 }
