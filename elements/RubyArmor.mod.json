@@ -3,9 +3,9 @@
   "_type": "armor",
   "definition": {
     "enableHelmet": true,
-    "textureHelmet": "ruby_head",
+    "textureHelmet": "ruby_helmet",
     "enableBody": true,
-    "textureBody": "ruby_body",
+    "textureBody": "ruby_chestplate",
     "enableLeggings": true,
     "textureLeggings": "ruby_leggings",
     "enableBoots": true,
@@ -38,10 +38,14 @@
     "damageValueLeggings": 18,
     "damageValueBoots": 6,
     "enchantability": 27,
-    "toughness": 0.0,
+    "toughness": 3.0,
     "equipSound": {
       "value": ""
     },
-    "repairItems": []
+    "repairItems": [
+      {
+        "value": "CUSTOM:RubyGem"
+      }
+    ]
   }
 }

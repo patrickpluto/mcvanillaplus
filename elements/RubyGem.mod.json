@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "ruby_gem",
+    "texture": "ruby",
     "customModelName": "Normal",
     "name": "Ruby",
     "creativeTab": {

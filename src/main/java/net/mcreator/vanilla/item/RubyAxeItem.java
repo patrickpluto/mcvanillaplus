@@ -4,6 +4,7 @@ package net.mcreator.vanilla.item;
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
+import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
@@ -23,7 +24,7 @@ public class RubyAxeItem extends VanillaModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new AxeItem(new IItemTier() {
 			public int getMaxUses() {
-				return 1164;
+				return 3000;
 			}
 
 			public float getEfficiency() {
@@ -31,19 +32,19 @@ public class RubyAxeItem extends VanillaModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 4f;
+				return 10f;
 			}
 
 			public int getHarvestLevel() {
-				return 6;
+				return 5;
 			}
 
 			public int getEnchantability() {
-				return 42;
+				return 24;
 			}
 
 			public Ingredient getRepairMaterial() {
-				return Ingredient.EMPTY;
+				return Ingredient.fromStacks(new ItemStack(RubyGemItem.block, (int) (1)));
 			}
 		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("ruby_axe"));

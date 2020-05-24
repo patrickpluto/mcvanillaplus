@@ -496,7 +496,13 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "ruby_armor"
+      "registry_name": "ruby_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "RubyArmorHelmetRecipe",
@@ -533,19 +539,93 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ruby_armor_boots_recipe"
+    },
+    {
+      "name": "Sky",
+      "type": "dimension",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sky"
+    },
+    {
+      "name": "FlintAndRubyRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "flint_and_ruby_recipe"
+    },
+    {
+      "name": "SkyRubyOre",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sky_ruby_ore"
+    },
+    {
+      "name": "SkyRubyOreSmelting",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sky_ruby_ore_smelting"
+    },
+    {
+      "name": "IronHorseArmorRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_horse_armor_recipe"
+    },
+    {
+      "name": "LeatherHorseArmorRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "leather_horse_armor_recipe"
+    },
+    {
+      "name": "GoldHorseArmorRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gold_horse_armor_recipe"
+    },
+    {
+      "name": "DiamondHorseArmorRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_horse_armor_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.vanilla_.sky": "Flint and Ruby",
+      "block.vanilla_.sky_ruby_ore": "Sky Ruby Ore",
       "item.vanilla_.emerald_armorhelmet": "Emerald Helmet",
       "item.vanilla_.emerald_armorboots": "Emerald Boots",
       "block.vanilla_.ruby_ore": "Ruby Ore",
       "item.vanilla_.ruby_sword": "Ruby Sword",
       "item.vanilla_.enchanted_emerald_apple": "Emerald Apple",
-      "item.vanilla_.emerald_sword": "Emerald Sword",
       "item.vanilla_.chain": "Chain",
+      "item.vanilla_.emerald_sword": "Emerald Sword",
       "item.vanilla_.emerald_pickaxe": "Emerald Pickaxe",
       "item.vanilla_.emerald_hoe": "Emerald Hoe",
       "item.vanilla_.emerald_armorlegs": "Emerald Leggings",
