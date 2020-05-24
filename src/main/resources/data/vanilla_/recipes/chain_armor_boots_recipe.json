@@ -1,0 +1,26 @@
+{
+  "group": "vanilla_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla_:chain"
+    },
+    "2": {
+      "item": "vanilla_:chain"
+    },
+    "3": {
+      "item": "vanilla_:chain"
+    },
+    "5": {
+      "item": "vanilla_:chain"
+    }
+  },
+  "result": {
+    "item": "minecraft:chainmail_boots",
+    "count": 1
+  }
+}
