@@ -1,0 +1,24 @@
+{
+  "group": "vanilla_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "1": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "vanilla_:ruby_sword",
+    "count": 1
+  }
+}

@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "vanilla_:blocks/ruby_ore_block",
-    "particle": "vanilla_:blocks/ruby_ore_block"
+    "all": "vanilla_:blocks/ruby_block",
+    "particle": "vanilla_:blocks/ruby_block"
   }
 }

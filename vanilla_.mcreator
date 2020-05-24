@@ -398,29 +398,173 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "RubyPickaxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe"
+    },
+    {
+      "name": "RubyAxe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe"
+    },
+    {
+      "name": "RubySword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword"
+    },
+    {
+      "name": "RubyShovel",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel"
+    },
+    {
+      "name": "RubyHoe",
+      "type": "tool",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe"
+    },
+    {
+      "name": "RubyPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_pickaxe_recipe"
+    },
+    {
+      "name": "RubyAxeRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_axe_recipe"
+    },
+    {
+      "name": "RubySwordRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_sword_recipe"
+    },
+    {
+      "name": "RubyShovelRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_shovel_recipe"
+    },
+    {
+      "name": "RubyHoeRecipe",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_hoe_recipe"
+    },
+    {
+      "name": "RubyArmor",
+      "type": "armor",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor"
+    },
+    {
+      "name": "RubyArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_helmet_recipe"
+    },
+    {
+      "name": "RubyArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_body_recipe"
+    },
+    {
+      "name": "RubyArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_leggings_recipe"
+    },
+    {
+      "name": "RubyArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.vanilla_.enchanted_diamond_apple": "Diamond Apple",
-      "item.vanilla_.emerald_shovel": "Emerald Shovel",
       "item.vanilla_.emerald_armorhelmet": "Emerald Helmet",
       "item.vanilla_.emerald_armorboots": "Emerald Boots",
-      "item.vanilla_.emerald_armorbody": "Emerald Chestplate",
-      "item.vanilla_.emerald_axe": "Emerald Axe",
-      "item.vanilla_.ruby_gem": "Ruby",
       "block.vanilla_.ruby_ore": "Ruby Ore",
-      "block.vanilla_.ruby_ore_block": "Block of Ruby",
+      "item.vanilla_.ruby_sword": "Ruby Sword",
       "item.vanilla_.enchanted_emerald_apple": "Emerald Apple",
-      "item.vanilla_.chain": "Chain",
       "item.vanilla_.emerald_sword": "Emerald Sword",
-      "item.vanilla_.emerald_apple": "Emerald Apple",
+      "item.vanilla_.chain": "Chain",
       "item.vanilla_.emerald_pickaxe": "Emerald Pickaxe",
       "item.vanilla_.emerald_hoe": "Emerald Hoe",
       "item.vanilla_.emerald_armorlegs": "Emerald Leggings",
-      "item.vanilla_.diamond_apple": "Diamond Apple"
+      "item.vanilla_.diamond_apple": "Diamond Apple",
+      "item.vanilla_.ruby_shovel": "Ruby Shovel",
+      "item.vanilla_.ruby_armorbody": "Ruby Chestplate",
+      "item.vanilla_.emerald_shovel": "Emerald Shovel",
+      "item.vanilla_.enchanted_diamond_apple": "Diamond Apple",
+      "item.vanilla_.ruby_armorlegs": "Ruby Leggings",
+      "item.vanilla_.emerald_armorbody": "Emerald Chestplate",
+      "item.vanilla_.ruby_axe": "Ruby Axe",
+      "item.vanilla_.emerald_axe": "Emerald Axe",
+      "item.vanilla_.ruby_gem": "Ruby",
+      "item.vanilla_.ruby_armorhelmet": "Ruby Helmet",
+      "block.vanilla_.ruby_ore_block": "Block of Ruby",
+      "item.vanilla_.emerald_apple": "Emerald Apple",
+      "item.vanilla_.ruby_hoe": "Ruby Hoe",
+      "item.vanilla_.ruby_armorboots": "Ruby Boots",
+      "item.vanilla_.ruby_pickaxe": "Ruby Pickaxe"
     }
   },
   "workspaceSettings": {

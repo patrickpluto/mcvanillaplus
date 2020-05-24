@@ -1,0 +1,26 @@
+{
+  "group": "vanilla_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "2": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "3": {
+      "item": "vanilla_:ruby_gem"
+    },
+    "5": {
+      "item": "vanilla_:ruby_gem"
+    }
+  },
+  "result": {
+    "item": "vanilla_:ruby_armorboots",
+    "count": 1
+  }
+}
