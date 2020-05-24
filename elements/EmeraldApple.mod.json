@@ -17,7 +17,7 @@
     "forDogs": false,
     "isAlwaysEdible": true,
     "animation": "eat",
-    "hasGlow": true,
+    "hasGlow": false,
     "onEaten": {
       "name": "EmeraldAppleFoodEaten"
     }

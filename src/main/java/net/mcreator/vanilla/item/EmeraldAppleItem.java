@@ -2,8 +2,6 @@
 package net.mcreator.vanilla.item;
 
 import net.minecraftforge.registries.ObjectHolder;
-import net.minecraftforge.api.distmarker.OnlyIn;
-import net.minecraftforge.api.distmarker.Dist;
 
 import net.minecraft.world.World;
 import net.minecraft.item.UseAction;
@@ -33,12 +31,6 @@ public class EmeraldAppleItem extends VanillaModElements.ModElement {
 			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(64)
 					.food((new Food.Builder()).hunger(20).saturation(20f).setAlwaysEdible().build()));
 			setRegistryName("emerald_apple");
-		}
-
-		@Override
-		@OnlyIn(Dist.CLIENT)
-		public boolean hasEffect(ItemStack itemstack) {
-			return true;
 		}
 
 		@Override
