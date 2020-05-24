@@ -1,7 +1,7 @@
 {
   "textures": {
-    "particle": "vanilla_:blocks/sky_portal",
-    "portal": "vanilla_:blocks/sky_portal"
+    "particle": "vanilla_:blocks/portal",
+    "portal": "vanilla_:blocks/portal"
   },
   "elements": [
     {
